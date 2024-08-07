@@ -1,6 +1,6 @@
 const BACKEND_URL = `${process.env.REACT_APP_BACKEND_URL}api/`;
 
-// NOTE: Pattern. Builder
+
 export default class RequestBuilder {
   private url: URL;
 
